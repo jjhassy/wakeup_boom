@@ -1,4 +1,3 @@
 # Wakeup
- Uses facial rec to keep you awake with vine booms.
- I had a bunch of trouble happen with the exe and pygame, pysci, etc. 
- I'd recommend just running the .py in an IDE.
+ Uses facial recognition to keep you awake with loud booming noises when eyes stay closed for too long.
+ Make sure you have python installed, and clone the repository. Then run the py file.
